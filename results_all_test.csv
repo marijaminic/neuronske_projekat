@@ -1,0 +1,3 @@
+Dataset,Varijanta,Model,Split,MAE,RMSE
+crop,original,MLPRegressor,test,8.143297813002608,10.672890768615371
+clean,original,MLPRegressor,test,8.364325523376465,10.74487324380286
